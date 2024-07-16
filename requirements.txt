@@ -1,0 +1,8 @@
+pyannote.audio==2.1.1
+torch==2.0.1
+torchaudio==2.0.1
+SpeechRecognition==3.8.1
+jiwer==2.3.0
+ffmpeg-python==0.2.0
+pydub==0.25.1
+gTTS==2.2.3
